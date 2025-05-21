@@ -2,7 +2,7 @@ let img = document.querySelector("#head")
 let btn = document.querySelector("#btn")
 let type = document.querySelector("#type")
 
-images = ["resources/heads.svg", "resources/tails.svg"]
+images = ["https://github.com/Ayoub788jf/coinflip/blob/3055e2069741b92a9c3ba45dc2614667d4d44bb7/resources/heads.svg", "https://github.com/Ayoub788jf/coinflip/blob/3055e2069741b92a9c3ba45dc2614667d4d44bb7/resources/tails.svg"]
 // console.log(img.src)
 
 btn.onclick = function () {
