@@ -2,7 +2,7 @@ let img = document.querySelector("#head")
 let btn = document.querySelector("#btn")
 let type = document.querySelector("#type")
 
-images = ["http://127.0.0.1:3000/resources/heads.svg", "http://127.0.0.1:3000/resources/tails.svg"]
+images = ["resources/heads.svg", "resources/tails.svg"]
 // console.log(img.src)
 
 btn.onclick = function () {
